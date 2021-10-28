@@ -18,5 +18,10 @@
     "id": "28cc4fcb-6c53-44a9-8871-37b48dec79c1",
     "description": "News 4",
     "templateUrl": "news4.html"
+  },
+  {
+    "id": "08649eb9-e17b-4421-940e-63e11e2517a6",
+    "description": "News 5",
+    "templateUrl": "news5.html"
   }
 ]
