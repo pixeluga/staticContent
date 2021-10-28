@@ -1,22 +1,22 @@
 [
   {
-    "id": "8709c14d-a9e4-42b0-8c03-6362ed41f91e"
+    "id": "8709c14d-a9e4-42b0-8c03-6362ed41f91e",
     "description": "News 1",
-    "templateUrl": "news1.html",
+    "templateUrl": "news1.html"
   },
   {
-    "id": "9cf86944-d73c-42d5-abce-46d57dafb6ee"
+    "id": "9cf86944-d73c-42d5-abce-46d57dafb6ee",
     "description": "News 2",
-    "templateUrl": "news2.html",
+    "templateUrl": "news2.html"
   },
   {
-    "id": "cdcecf6e-0e3f-40f5-aa37-68a3e94e6412"
+    "id": "cdcecf6e-0e3f-40f5-aa37-68a3e94e6412",
     "description": "News 3",
-    "templateUrl": "news3.html",
+    "templateUrl": "news3.html"
   },
     {
-    "id": "28cc4fcb-6c53-44a9-8871-37b48dec79c1"
+    "id": "28cc4fcb-6c53-44a9-8871-37b48dec79c1",
     "description": "News 4",
-    "templateUrl": "news4.html",
-  },
+    "templateUrl": "news4.html"
+  }
 ]
